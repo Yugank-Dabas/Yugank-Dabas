@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yugank-Dabas
-- 👀 I’m interested in Artificial Intelligence and Machine Learning 
+- 👀 Passionate in learning Artificial Intelligence and Machine Learning 
 - 🌱 I’m currently learning Machine learning 
 - 📫 Instagram- yugank._dabas
 
